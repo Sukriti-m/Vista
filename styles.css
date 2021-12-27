@@ -15,7 +15,7 @@ background-color: #98002E;
 .nav-item{font-size:1.8rem;
   font-family:"helvetica";
   font-weight: bold;
-padding: 0px 8px;
+padding: 0px 4px;
 }
 a{color:#98002E !important;}
 a:hover{color:#EDB111 !important; }
@@ -50,10 +50,25 @@ border-radius: 5px;}
   border-radius: 5px;
   background-color: #eaccd5;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  padding: 0 3rem;
+  padding:0 3rem;
+  position: relative;
 }
+.depts{left:20px;}
 .col-lg-6:hover{border-color: #EDB111;
     background-color: #f9e7b7;
 }
 .info_1{font-size: 1.5rem;
 line-height: 1.7;}
+.alumni{font-size: 4rem;
+  text-align: center;
+  text-decoration: underline;
+  padding-top: 2rem;
+color:#98002E; }
+.card{box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 30px 50px;
+  text-align: center;
+  color: #EDB111;
+}
+.grey{background-color: #f3f3f3;}
+.alumni_img{height: 250px;
+width:100%;}
