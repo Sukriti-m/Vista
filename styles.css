@@ -72,3 +72,12 @@ color:#98002E; }
 .grey{background-color: #f3f3f3;}
 .alumni_img{height: 250px;
 width:100%;}
+.foot{background-color:#98002E;
+color: white;
+text-align: center;}
+h2{padding: 25px;}
+p{line-height: 1.8;
+font-size: 1.2rem;
+vertical-align: middle;}
+i{color: #EDB111;
+padding: 0 15px;}
